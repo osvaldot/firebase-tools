@@ -3,7 +3,7 @@
 Firebase Command Line Interface (CLI) Tools Docker image
 
 - Node: 10.15.0 (LTS)
-- Firebase tools: 6.2.2
+- Firebase tools: 6.3.0
 
 
 ### Links
